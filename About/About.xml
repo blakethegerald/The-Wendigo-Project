@@ -1,0 +1,14 @@
+<ModMetaData>
+	<name>The Wendigo Project</name>
+	<author>slap.me.barnacle</author>
+	<supportedVersions>
+      <li>1.2</li>
+   </supportedVersions>
+	<packageId>slapmebarnacle.TheWendigoProject</packageId>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+	</loadAfter>
+	<description></description>
+</ModMetaData>

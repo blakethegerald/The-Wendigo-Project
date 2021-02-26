@@ -1,0 +1,19 @@
+<LanguageData>
+	<WP.ActivateBerserkState>Activate berserk state</WP.ActivateBerserkState>
+	<WP.ActivateBerserkStateDesc>Activate berserk state</WP.ActivateBerserkStateDesc>
+	
+	<WP.Leap>Leap</WP.Leap>
+	<WP.LeapDesc>Leap</WP.LeapDesc>
+	
+	<WP.ActivateSkinWalkerPersona>Activate skin walker persona</WP.ActivateSkinWalkerPersona>
+	<WP.ActivateSkinWalkerPersonaDesc>Activate skin walker persona</WP.ActivateSkinWalkerPersonaDesc>
+	
+	<WP.ActivateCloakingSystem>Activate cloaking system</WP.ActivateCloakingSystem>
+	<WP.ActivateCloakingSystemDesc>Activate cloaking system</WP.ActivateCloakingSystemDesc>
+	
+	<WP.DisactivateCloakingSystem>Disactivate cloaking system</WP.DisactivateCloakingSystem>
+	<WP.DisactivateCloakingSystemDesc>Disactivate cloaking system</WP.DisactivateCloakingSystemDesc>
+
+	<WP.ActivateScreecherHorn>Activate screecher horn</WP.ActivateScreecherHorn>
+	<WP.ActivateScreecherHornDesc>Activate screecher horn</WP.ActivateScreecherHornDesc>
+</LanguageData>

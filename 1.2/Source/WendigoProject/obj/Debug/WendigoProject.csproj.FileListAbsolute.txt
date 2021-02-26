@@ -1,0 +1,5 @@
+c:\GAMES\Rimworld\Mods\The-Wendigo-Project\1.2\Source\WendigoProject\obj\Debug\WendigoProject.csprojAssemblyReference.cache
+c:\GAMES\Rimworld\Mods\The-Wendigo-Project\1.2\Source\WendigoProject\obj\Debug\WendigoProject.csproj.CoreCompileInputs.cache
+c:\GAMES\Rimworld\Mods\The-Wendigo-Project\1.2\Assemblies\WendigoProject.dll
+c:\GAMES\Rimworld\Mods\The-Wendigo-Project\1.2\Source\WendigoProject\obj\Debug\WendigoProject.csproj.CopyComplete
+c:\GAMES\Rimworld\Mods\The-Wendigo-Project\1.2\Source\WendigoProject\obj\Debug\WendigoProject.dll

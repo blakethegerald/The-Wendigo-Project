@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <ThingDef ParentName="SkyfallerBase">
+    <defName>WP_PawnSkyfaller</defName>
+    <label>pawn skyfaller</label>
+    <thingClass>WendigoProject.PawnSkyFaller</thingClass>
+    <size>(1, 1)</size>
+    <useHitPoints>false</useHitPoints>
+    <drawOffscreen>true</drawOffscreen>
+    <tickerType>Normal</tickerType>
+    <altitudeLayer>Skyfaller</altitudeLayer>
+    <drawerType>RealtimeOnly</drawerType>
+    <skyfaller>
+      <movementType>ConstantSpeed</movementType>
+      <shadow>Things/Skyfaller/SkyfallerShadowRectangle</shadow>
+      <shadowSize>(1, 1)</shadowSize>
+      <rotateGraphicTowardsDirection>true</rotateGraphicTowardsDirection>
+      <motesPerCell>5</motesPerCell>
+      <speed>0.2</speed>
+      <hitRoof>true</hitRoof>
+    </skyfaller>
+  </ThingDef>
+  
+</Defs>
